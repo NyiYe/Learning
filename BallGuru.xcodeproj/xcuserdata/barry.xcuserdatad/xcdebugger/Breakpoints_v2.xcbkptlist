@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8D841E08-13D9-4405-B163-36060A48AF5A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87C38032-D0F6-43EB-B0BD-F06D765104A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BallGuru/ViewModel/HighlightViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getHighlight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87C38032-D0F6-43EB-B0BD-F06D765104A8 - adfee3c74b8d64f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BallGuru.HighlightViewModel.getHighlight() async -&gt; ()"
+                  moduleName = "BallGuru"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barry/Desktop/YouKnowProject/MyProject/BallGuru/BallGuru/ViewModel/HighlightViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "87C38032-D0F6-43EB-B0BD-F06D765104A8 - adfee3c74b8d64f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BallGuru.HighlightViewModel.getHighlight() async -&gt; ()"
+                  moduleName = "BallGuru"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barry/Desktop/YouKnowProject/MyProject/BallGuru/BallGuru/ViewModel/HighlightViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "87C38032-D0F6-43EB-B0BD-F06D765104A8 - adfee3c74b8d64f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BallGuru.HighlightViewModel.getHighlight() async -&gt; ()"
+                  moduleName = "BallGuru"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barry/Desktop/YouKnowProject/MyProject/BallGuru/BallGuru/ViewModel/HighlightViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
